@@ -1,0 +1,26 @@
+# Naukri Job Scraper - Python Dependencies
+# Install all requirements: pip install -r requirements.txt
+
+# Web Framework
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Web Scraping
+selenium==4.16.0
+beautifulsoup4==4.12.2
+lxml==5.1.0
+html5lib==1.1
+
+# Chrome WebDriver Manager (auto-downloads ChromeDriver)
+webdriver-manager==4.0.1
+
+# Data Processing
+pandas==2.1.4
+openpyxl==3.1.2
+
+# Scheduling
+APScheduler==3.10.4
+
+# Utilities
+requests==2.31.0
+python-dotenv==1.0.0
