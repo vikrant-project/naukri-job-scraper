@@ -361,7 +361,7 @@ If you encounter any issues or have questions:
 
 1. Check the [Troubleshooting](#troubleshooting) section
 2. Open an issue on GitHub
-3. Contact: vikrantranahome@gmail.com
+
 
 ---
 
